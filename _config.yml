@@ -22,6 +22,8 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+remote_theme: fongandrew/hydeout
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -33,3 +35,4 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+

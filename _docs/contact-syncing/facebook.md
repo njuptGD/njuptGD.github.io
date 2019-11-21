@@ -1,6 +1,6 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: 环境要求
+category: 使用说明
 order: 1
 ---
 

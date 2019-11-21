@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 掼蛋人工智能平台
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
@@ -11,7 +11,7 @@ Teams and friend groups would use ChatApp to stay up to date if it existed.
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### Getting Started
+### 平台相关
 
 Getting a message sent is quick and easy with ChatApp:
 
@@ -21,18 +21,18 @@ Getting a message sent is quick and easy with ChatApp:
 
 > Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
 
-### Features
+### 平台特点
 
 Explore more of ChatApp by reading about our features:
 
-#### Media
+#### 如何使用
 
 Send images, videos and other media to people. Sources include your computer, phone and Facebook.
 
-#### Contact Syncing
+#### 文档说明
 
 Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
 
-#### Devices
+#### 联系我们
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.

@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: 南京邮电大学
+title: JSAI
 url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -9,15 +9,15 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: GuanDan platform for AI
 author:
-  name:
-  email:
+  name: duofeng Wu
+  email: wuguduofeng@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: NJUPT
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - http://gameai.njupt.edu.cn/index.html
 
 # -----
 # Build

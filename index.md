@@ -2,37 +2,34 @@
 title: 掼蛋人工智能平台
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+本平台将掼蛋（淮安斗地主）游戏与人工智能相结合，以游戏为本体，预留算法接口。使用者可通过将AI算法程序接入平台进行AI算法博弈。
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+#### 平台相关
 
-### 平台相关
+1. 硬件环境：Intel(R) Core(TM)2 Quad CPU 2.33GHz；4GB RAM
++ 软件环境：Windows 7 / Windows® 8 / Windows® 10
++ 编程语言：Python, Lua
++ 源程序量：5000行
 
-Getting a message sent is quick and easy with ChatApp:
+#### 平台特点
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### 平台特点
-
-Explore more of ChatApp by reading about our features:
+1. 主要功能：给人工智能算法提供一个掼蛋游戏的博弈环境进行在线或者离线的对抗.
+2. 技术特点：
+  + 可以在本地PC上进行算法的训练
+  + 可以在小型局域网内与其他人工智能算法一同进行游戏
+  + 对人工智能的算法的编程语言没有限制要求
 
 #### 如何使用
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### 文档说明
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+1. 离线平台运行方法：确认本地端口号23456空闲后，双击运行。运行后弹出2个窗口，按照AI程序相关说明进行连接。当游戏人数满员后，必须通过GUI界面设置游戏局数，点击开始按钮即可开始游戏；运行完设定的游戏局数后，GUI界面会出现再次输入游戏局数的输入框，输入局数可再次进行游戏。
+2. AI连入平台方法：AI算法通过WebSocket连接平台，两者通过JSON数据交互进行游戏。其中连线平台WebSocket连接地址：ws://127.0.0.1:23456/game/{user_info} 。
+ + 其中user\_info字段表示用户信息，用于标识该用户的AI。
+ + 由于使用了断线重连机制，因此不支持同名AI共同连入平台。
+ + AI程序应针对不同的JSON数据结构进行相应的解析，从而采取相应的动作。
 
 #### 联系我们
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+有平台使用的相关疑惑或者问题，可联系我们的平台开发者吴多丰，联系方式为QQ：519301156
+
+（亲，开发人员工作不易，请首先参照平台使用说明及API简易文档理解解决，诚挚感谢！）

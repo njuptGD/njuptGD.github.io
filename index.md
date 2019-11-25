@@ -18,8 +18,7 @@ title: 掼蛋人工智能平台
 
 #### 联系我们
 
-+ 本平台由南京邮电大学人工智能博弈研究组开发，遇到与平台相关的问题或其他建议可以通过以下联系方式向我们反馈
-  + github issue adress: 
++ 本平台由南京邮电大学人工智能博弈研究组开发，遇到与平台相关的问题或其他建议可以通过以下联系方式向我们反馈 
   + 陈老师 chenxg@njupt.edu.cn
-  + 吴多丰 wugudufeuog@gmail.com
+  + 吴多丰 wuguduofeng@gmail.com
 

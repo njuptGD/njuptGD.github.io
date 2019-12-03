@@ -24,7 +24,6 @@ title: 掼蛋及三国杀人工智能平台
 + https://github.com/njuptGD/jsai-competition
 
 #### 报名方式与赛程
-+ 以邮件的形式发送至wuguduofeng@gmail.com，附上队伍组成，联系方式及单位（若有的话）
 + 赛程信息敬请关注江苏省人工智能学会公众号
 
 #### 联系我们

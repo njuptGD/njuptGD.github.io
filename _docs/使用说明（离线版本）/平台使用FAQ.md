@@ -1,6 +1,6 @@
 ---
 title: 使用FAQ
-category: 使用说明
+category: 使用说明(离线版本)
 order: 3
 ---
 

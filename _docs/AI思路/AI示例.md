@@ -1,7 +1,7 @@
 ---
 title: AI示例
 category: AI思路
-order: 1
+order: 2
 ---
 
 + 一个简单的掼蛋AI连接平台的示例代码如下：
